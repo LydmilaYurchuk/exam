@@ -1,0 +1,13 @@
+{
+  "name": "design-patterns-exam",
+  "version": "1.0.0",
+  "description": "Implementation of Creational Pattern: Singleton in TypeScript",
+  "main": "src/creational/singleton/singleton.ts",
+  "scripts": {
+    "singleton": "ts-node examples/index.ts"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
